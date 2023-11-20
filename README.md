@@ -1,13 +1,15 @@
 # HuggingFace
  Article summerizer using huggingface
-1.The structure:
+
+
+     1.The structure:
     Backend:Django
     FrontEnd:HTML and Bootstrap
     
-2.Integration of hugging Face:
+    2.Integration of hugging Face:
     I installed the transformer library of huggingface and imported the pipeline. I used the summerizer model for the project
-    and set up the views.py of my django project. The project recieves big articles as input and summerises them in less than 
-    130 words
+    and set up the views.py of my django project. The project recieves big articles as input and summerises them in less 
+    than 130 words
 
 
     References
